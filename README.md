@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+Have a wished day!
 ---
 
-[<img align="left" alt="Duong Nguyen | Momo" width="30px" src="https://img.icons8.com/ios-filled/100/000000/yandex-money.png"/>][momo]
+
 [<img align="left" alt="Duong Nguyen | Website" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Duong Nguyen | Facebook" width="30px" src="https://img.icons8.com/android/48/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Duong Nguyen | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
